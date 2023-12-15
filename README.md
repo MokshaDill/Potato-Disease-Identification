@@ -1,2 +1,2 @@
 # Potato Disease Identification
- Potato Disease Identification------->
+In this transformative deep learning project for the agriculture domain, My focus is on alleviating economic losses and crop waste caused by diseases in potato plants. Leveraging Convolutional Neural Networks (CNNs) for image classification, we empower farmers with a user-friendly mobile app. By simply capturing a picture of their potato plants, the app swiftly analyzes and provides real-time insights on the presence of diseases. 
