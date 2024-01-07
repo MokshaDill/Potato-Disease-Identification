@@ -8,7 +8,7 @@ from PIL import Image
 import tensorflow as tf
 
 app = FastAPI()
-
+FastAPI
 origins = [
     "http://localhost",
     "http://localhost:3000",
